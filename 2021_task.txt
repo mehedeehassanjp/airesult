@@ -1,0 +1,6 @@
+<memo>
+<titile>NOTE BOOK CREATED<title>
+<date>2021/06/25</date>
+<time>06:15:23</time>
+<d></d>
+</memo>
